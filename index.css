@@ -1,0 +1,19 @@
+body>div:first-child,
+
+{
+    color: red;
+
+}
+
+div div:first-child,
+div div:last-child,
+body>h3,
+li>strong 
+{
+    color: green;
+
+}
+body>p,
+ span{
+    color: blue;
+}

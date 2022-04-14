@@ -1,0 +1,44 @@
+ div>strong,.y{
+    color: blue;
+}
+table,thead{
+    border: 1px solid black;
+    border-spacing: 0px;
+    width: 48%;
+    text-align: center;
+  
+}
+td, tr, th{
+    border: 1px solid black;
+}
+thead{
+    background-color: #4ac3ff;
+}
+tfoot td:first-child{
+    background-color:#f71010 ;
+}
+    tfoot td:last-child{
+        background-color: #57ac77;
+}
+.W{
+    color: red;
+}
+span{
+    color: orange;
+}
+li{
+    list-style: none;
+}
+.S,div>p{
+    color: green;
+}
+.R{
+    color: violet;
+}
+.T{
+    color: yellow;
+}
+body{
+    background-color: rgb(188, 189, 180);
+   
+}
